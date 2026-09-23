@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Evan;Dar;;;
+FN:Dar Evan
+ORG:Gustavus Adolphus College
+TITLE:Computer Science & Economics Student
+EMAIL;TYPE=INTERNET,WORK:dare@gustavus.edu
+EMAIL;TYPE=INTERNET,HOME:thedarevan@gmail.com
+TEL;TYPE=CELL,VOICE:+15073824764
+TEL;TYPE=CELL,VOICE:+972542356406
+URL:https://darevan.com
+URL:https://www.linkedin.com/in/darevan/
+URL:https://github.com/thedarevan
+NOTE:St. Peter, Minnesota / Haifa, Israel
+END:VCARD
